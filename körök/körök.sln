@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "körök", "körök\körök.csproj", "{05BB4C81-41E6-483B-B37F-83475106C1CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05BB4C81-41E6-483B-B37F-83475106C1CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05BB4C81-41E6-483B-B37F-83475106C1CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05BB4C81-41E6-483B-B37F-83475106C1CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05BB4C81-41E6-483B-B37F-83475106C1CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA3991D9-799C-44B6-AD1E-CCECBCC67FF6}
+	EndGlobalSection
+EndGlobal
